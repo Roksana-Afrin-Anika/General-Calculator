@@ -1,8 +1,11 @@
 # General-Calculator
-The General Calculator is a versatile computational tool designed to facilitate a wide range of arithmetic and mathematical operations.It is engineered to perform basic functions such as addition, subtraction, multiplication, and division, as well as more advanced calculations.This calculator features a user-friendly interface, ensuring accessibility and ease of use for individuals of varying proficiency levels. Its robust design allows for quick and accurate results, making it an essential utility for students.
+The Mini Calculator for Two Input Numbers is a compact and efficient computational device engineered to perform basic arithmetic operations on two numerical inputs. It is tailored for quick and straightforward calculations, making it an ideal tool for various everyday tasks requiring rapid computation.
 
 Key Features:
-Basic Arithmetic Functions: Addition, subtraction, multiplication, and division.
-Advanced Operations: Modulus,Floor.
-User-Friendly Interface: Intuitive layout for seamless operation.
-Accuracy and Efficiency: Ensures precise results with rapid processing times.
+
+Dual Input Capability: Accepts two numerical inputs simultaneously, enabling swift and convenient calculation.
+Basic Arithmetic Functions: Supports fundamental arithmetic operations, including addition, subtraction, multiplication, and division.
+Clear and Concise Display: Features a clear display interface that showcases input values, operation symbols, and computed results for enhanced visibility and user comprehension.
+Portable Design: Compact and lightweight construction ensures easy portability, making it suitable for on-the-go use in diverse environments.
+Battery-Powered Operation: Utilizes battery power for standalone functionality, eliminating the need for external power sources and enhancing versatility.
+
